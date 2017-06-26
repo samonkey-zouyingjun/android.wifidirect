@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\j\\Desktop\\Unity\\android.wifidirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\section_header.xml",
+        "source": "C:\\Users\\j\\Desktop\\Unity\\android.wifidirect\\app\\src\\main\\res\\drawable-hdpi\\section_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\j\\Desktop\\Unity\\android.wifidirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\details_view.xml",
+        "source": "C:\\Users\\j\\Desktop\\Unity\\android.wifidirect\\app\\src\\main\\res\\drawable-hdpi\\details_view.xml"
+    }
+]
